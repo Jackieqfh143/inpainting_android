@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">inpainting</string>
+    <string name="btn_name_save">Save</string>
+    <string name="btn_name_open">Open</string>
+    <string name="btn_name_clear">Clear All</string>
+    <string name="btn_name_confirm">Confirm</string>
+    <string name="brushSize">Brush</string>
+</resources>
